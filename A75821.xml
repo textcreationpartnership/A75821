@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Aut nunc, aut nuncquam. = Now or never: for if not now, inslaved ever.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75821</idno>
+            <idno type="STC">Wing A4263</idno>
+            <idno type="STC">Thomason E454_22</idno>
+            <idno type="STC">ESTC R205007</idno>
+            <idno type="EEBO-CITATION">99864453</idno>
+            <idno type="PROQUEST">99864453</idno>
+            <idno type="VID">116682</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75821)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116682)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E454[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Aut nunc, aut nuncquam. = Now or never: for if not now, inslaved ever.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare, 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116682:1" rendition="simple:additions"/>
+            <p>Aut NVNC, Aut NVNQVAM. NOW OR NEVER: For if not Now, INSLAVED EVER.</p>
+            <p>LONDON Printed in the Yeare, 1648</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="2" facs="tcp:116682:2"/>
+            <head>
+               <hi>Aut Nunc, Aut Nunquam.</hi> NOW, Or NEVER: For if not Now, Inſlaved EVER.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Rave <hi>Cavaliers,</hi> looke about yoe. The <hi>game</hi> goes well on your ſide. That <hi>Black cloud</hi> which hung ſo long over you is now diſperſing; your <hi>fortunes</hi> that have been at ſo long and low Ebb, are now ariſing. The hopes of thoſe <hi>Ma<g ref="char:EOLhyphen"/>licious Traiteurs,</hi> wholy declining. That <hi>Generall,</hi> whoſe continued ſucceſs never to this hower, admitted a retreat, is now defeated. Victorious <hi>Colcheſter</hi> remains unſtormed: <hi>Kent</hi> repents her of her eaſineſs in ſubduing. v <hi>Suffolke</hi> repents her of her weakneſſe in complying. Both theſe have vow'd to redeem their <hi>fame,</hi> or dye it'h <hi>field.</hi>
+            </p>
+            <p>Look about you, and behold what a <hi>gallant Cavalry,</hi> and in what con<g ref="char:EOLhyphen"/>fluence, and with what confidence they come to meet you; with what com<g ref="char:EOLhyphen"/>pliance they invite you.</p>
+            <p>Brave <hi>Northerne blades</hi> are advanced to joyne with our <hi>Southerne Spirits — Hounflow Heath, Dunſmore Heath, Black Heath,</hi> all <hi>Heaths, Boyes,</hi> are their <hi>Randezvouſes.</hi> There they expect you; where <hi>Honour</hi> will receive you: and where a cheerefull calme crowned with the grace<g ref="char:EOLhyphen"/>full <hi>palms</hi> of an <hi>Honorable</hi> peace, ſhall period thoſe <hi>Brackiſh ſtorms</hi> which did formerly incounter you.</p>
+            <p>A purſuit after loyall fame admits no feare. See what a noble conflu<g ref="char:EOLhyphen"/>ence of bravely minded <hi>Citizens</hi> invite you to accompany them! The <hi>City-aire</hi> cannot detaine them: neither the perſwaſions nor long reaſons of ſeditious <hi>Skippon</hi> decline them. Theſe are ſteeled with true reſolution; for to dye on the <hi>feild-bed</hi> of <hi>Honour,</hi> is a brave concluſion. Theſe ſee their <hi>Prince</hi> reſtrained; when <hi>Prerogative Royall</hi> ſhould inlarge his Subjects Liberty: deprived of that which he might beſtow on others. No Loyall Subject can ſee this with dry eyes. This it was made theſe brave <hi>Royalliſts</hi> conclude: and from that concluſion to advance hither: <q rend="margQuotes">That the <hi>Princes cure,</hi> ought to be the <hi>Subjects care.</hi> His ſervice, their <hi>ſolace. </hi>
+               </q>Neither was it upon <hi>low grounds,</hi> whereon they built their foundation <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and upon which they are reſolv'd to <hi>riſe</hi> or <hi>fall.</hi> For they have taken a full veiw of thoſe high and hainous inſolencies, inſupportable indignities, nay, treacherous plots and Machinations not only practiſed but ready to
+<pb n="3" facs="tcp:116682:2"/>be executed (if a divine hand had not diverted the ſtroak) upon his Maje<g ref="char:EOLhyphen"/>ſties Sacred Perſon; holding him too unworthy to live, becauſe too worthy of their love. Theſe, beſides that <hi>Servile Yoake,</hi> whereto their necks have been too long accuſtomed, too aſſiduately acquainted, have invited, nay inforced theſe undaunted <hi>Cavaliers</hi> to ſue for peace with Swords in their hands; with redreſſe of thoſe <hi>crying crimes</hi>
+               <note n="*" place="margin">Nothing may be more truly related more juſtly aggravated, nor ruth fnlly in<g ref="char:EOLhyphen"/>ſtanced, for I my ſelfe know the place, where ſince theſe Civill Warrs were commenced The Maſter of the Houſe ninety years old, in ſtan<g ref="char:EOLhyphen"/>ding with the ſtrength he had for the defence of his daughters honour, was cru<g ref="char:EOLunhyphen"/>clly Murdered, hir Daughters raviſhed, and to compleat this Barbariſme, his houſe wholy Plundcred</note> Blood, Oppreſſion, Rapes, Rapine, with whatſoever the riot of a Licentious State could produce.</p>
+            <p>The <hi>King</hi> muſt be freed his <hi>Priviledges</hi> reſtored, His <hi>Forts</hi> and <hi>Caſtles</hi> repaired: his <hi>Loyall Subjects</hi> righted, <hi>Satisfaction</hi> rendred: and thoſe <hi>Sage Benchers,</hi> whoſe cramm'd coffers have recruited theſe Miſchiefes, ſpunged. Such <hi>Aſſes milke</hi> will be infinitely Soveraign for the <hi>conſump<g ref="char:EOLhyphen"/>tion</hi> of a <hi>Cavaliers</hi> eſtate. The <hi>Blue-bonnet</hi> means to have a <hi>whole ſhare</hi> too. <hi>Reformation</hi> is a ſpecious pretence: but the eſtabliſhment of a <hi>Reli<g ref="char:EOLhyphen"/>gious Presbytery,</hi> deſerves a bounteous Booty. <hi>Solvat Eccleſia.</hi>
+            </p>
+            <p>They for whom they <hi>row</hi> ought to pay their <hi>fare.</hi> Theſe, who ſet them on <hi>worke:</hi> are to pay them their <hi>Wages.</hi> Meane time, wee ſtand here all ingaged for one quarrell. Stakes are not to be payd till the Courſe be done. Our <hi>cauſe</hi> is too good, to entertaine a <hi>distruſt:</hi> Or to admit a <hi>par<g ref="char:EOLhyphen"/>ley:</hi> A ſpedy ſurrender, or no quarter.</p>
+            <p>O how theſe <hi>Parliamentary Treaties</hi> have deluded us! Petitions upon Petitions with humble <hi>thankes</hi> returned to the Petitioners, by the <hi>oyly mouth</hi> of their long-lung'd <hi>Speaker,</hi> for their care of the <hi>publique</hi> being <q rend="margQuotes">the very buſineſſe which they had at the ſame time taken into conſidera<g ref="char:EOLhyphen"/>tion, and now tranſmitted to <hi>Darby Houſe</hi> [their Oracular Committee] and after due debate to be reſolved — <hi>God knowes when.</hi>
+               </q> But now comes <hi>Cyrus</hi> Sword that cuts that <hi>Gordian knot</hi> and divides all rightly to a threed. Thoſe delatory Pleas might have taken place, without admit<g ref="char:EOLhyphen"/>tance of Reply, ſo long as that brave <hi>conſistory</hi> were <hi>Maſters</hi> of the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> and <hi>Navy:</hi> But thoſe wooden <hi>Horſes</hi> no ſooner left them, then their <hi>Bilbow Blades</hi> were turn'd into <hi>Wooden Swords.</hi> Their late invincible <hi>A<g ref="char:EOLhyphen"/>treus,</hi> their formidable <hi>Black-Tom,</hi> who was formerly ſo impatient of a repulſe muſt ſit downe with it, His late <hi>City-guards</hi> skulke for feare to be apprehended, as ſome of their Cumrades lately were, for the <hi>Sacriledg</hi> they had committed.</p>
+            <p>But phoh! I was nearly ſtifled with the vapour exhaled from the <hi>Senate-houſe.</hi> Some aromatick fume or frankincenſe for thoſe two <hi>conclaves</hi> of the <hi>conſulls.</hi> They are in a pitifull pickle. — Proſperity comes neither from the <hi>Eaſt</hi> nor the <hi>Weſt:</hi> nor any coaſt elſe for their intereſt. What Sour faces too, and pittifully complaining Elegies make other <hi>Independants</hi> for the <hi>Death</hi> and <hi>Buriall</hi> of their Anarchiall Protector <hi>CROMWELL.</hi>
+               <pb n="4" facs="tcp:116682:3"/>But no remedy, the Subtilleſt Sconc't Traytor breathing cannot avoyd Mortality.</p>
+            <p>Go too then Boyes, — Either NOVV or NEVER, for if not Now, in<g ref="char:EOLhyphen"/>ſlaved ever. Omit not the leaſt minute of opportunity: Hearts and hands Prayers and Powers march along with yon, to expedite your victory.</p>
+            <p>YET one word to you, Grand-Sedentary Delinquents. You brave State-Rufflers, who are ſo farre from paying <hi>tribute</hi> to <hi>Caeſar,</hi> as you make <hi>Cae<g ref="char:EOLhyphen"/>ſars</hi> Subjects <hi>tributaries</hi> to you: you, who have <hi>ſit</hi> farre longer then the <hi>State</hi> intended, and brooded more Sects, Schiſmes and Diviſions then e<g ref="char:EOLhyphen"/>ver <hi>Parliament</hi> (without exception of that <hi>mad one,</hi>) to this day ingendred. you,<note place="margin">Hen. 3.</note> who have occaſioned more blood ſhed in one yeare, then all our <hi>Ci<g ref="char:EOLhyphen"/>vill Warres</hi> acted in all our Fore-fathers tyme. you, who under pretence of Reforming churches, have chaced <hi>Religion</hi> quite out oth' Church. you who have depopulated Towns, ruinated Cities, obſtructed traffick, and rubrict your victories with the <hi>blood</hi> of <hi>Innocents.</hi> you, who have made ſo many Fathers, their Sons Survivers. you, who have devoured Widdows Houſes: and divided the <hi>inheritance</hi> of <hi>Orphans</hi> among your Spoylers you, who have made the <hi>City</hi> your <hi>Stalking Horſe,</hi> to work your own <hi>Inte<g ref="char:EOLhyphen"/>rests.</hi> Return, return with tears in your Eyes: reverence in your knees: and zeale in your Hearts. As <hi>Patience</hi> ha's arm'd his <hi>Majesty</hi> amidſt all his ſufferings: So his <hi>Native goodneſſe</hi> will cloath him with a <hi>princely compaſsion</hi> towards moſt of thoſe by whom He has ſuffered. Mindes no<g ref="char:EOLhyphen"/>bly qualified, are ever more apt to <hi>remit</hi> then <hi>revenge.</hi> Some, indeed, there are, who (co leave <hi>Preſidents</hi> to <hi>Poſterity,</hi> how high and hainous an Offence it is to ſpurne at <hi>Majeſty</hi>) muſt be <hi>balter'd.</hi> For their rebellious inſolencies have been of that irremittable nature, as their <hi>impunity</hi> might call the judgment of a <hi>State</hi> in queſtion. One or two <hi>exuberant branches</hi> may be well ſpar'd to ſave the <hi>Vine.</hi>
+            </p>
+            <p>But if theſe Motives have no influence over you, reflect upon your own preſent condition. <hi>A Houſe dvided cannot ſtand:</hi> And pray you, tell us, what irreconcileable differences have been raiſed among your ſelves? How diametrally oppoſite have your <hi>Votes</hi> and <hi>Voyces</hi> beene one to another! Members, [like ſo many <hi>lopt branches</hi> ſhred from their <hi>Root</hi>] expuiſt the <hi>Houſes</hi> for cleaving to their <hi>firſt principles;</hi> yet upon better conſiderati<g ref="char:EOLhyphen"/>on, call'd back againe, to make the <hi>weaker party</hi> ſtronger.</p>
+            <p>But how can it be expected that there ſhould be Vnity of opinion, when your <hi>Principles</hi> are groanded in Ignorance? For ſhould we go by the <hi>Poule,</hi> and cull out moſt of the <hi>Lower Siedge</hi> in both Houſes: and Cate<g ref="char:EOLhyphen"/>chiſe them fully touching their <hi>Tenets</hi> either of <hi>Presbytery</hi> or <hi>Indepen<g ref="char:EOLhyphen"/>dency:</hi> we might without breach of Charity, couclude, that their Anſwer
+<pb n="5" facs="tcp:116682:3"/>would be the very ſame, which <hi>Candaces</hi> return'd to <hi>Philip:</hi>
+               <note place="margin">Act <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Mat. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0.</note> 
+               <hi>How ſhould we understand theſe things without a Teacher?</hi> Or as <hi>Peter</hi> anſwer'd the Damſell: <hi>Wee wot not what you ſay.</hi>
+            </p>
+            <p>Meane time, theſe <hi>Nominall Profeſſors</hi> receive in them pretended No<g ref="char:EOLhyphen"/>tions of theſe undetermined <hi>Principles.</hi> But it is worthy our Obſervation, to take a Survey of their <hi>differences</hi> a riſing from a <hi>calme time,</hi> when no <hi>Enemy is</hi> in view: and at other <hi>occaſionall Seaſons,</hi> when they heare <hi>con<g ref="char:EOLhyphen"/>ſiderable Forces</hi> approaching. For then muſt HEROD and PILAT be made friends. Difference in opinion muſt not beget a diſtance in their af<g ref="char:EOLhyphen"/>fection. They muſt be call'd home from their <hi>Exile</hi> to the <hi>Capitol:</hi> and with ſuch mutuall Salutes, cheerfull countenances, and gracefull regreets, as the Thanks their ingratiating delivery returnes to our <hi>City</hi> and <hi>County-Petitions</hi> cannot be more ſincerely cordiall. And now ſo long as it laſts, theſe two <hi>ſeverall Tribes</hi> muſt joyne in their <hi>Tenets.</hi> Enemies abroad make Peace at home.</p>
+            <p>Points of Faith which were never yet held Orthodoxall, may without Scruple of Conſcience admit diſpenſation. Their <hi>Principles,</hi> indeed, were grounded upon a <hi>Preſbytery:</hi> but the <hi>Catastrophe</hi> cloſeth with <hi>Indepen<g ref="char:EOLhyphen"/>dency:</hi> and yet only ſo long as it appears ſtronger, and weighs heavierith, <hi>Skale.</hi> [A brave frame of State! A wonderfull Chymick extraction! Where one King is dilated to many: and many ſtrangely elixir'd and re<g ref="char:EOLhyphen"/>ſolv'd to none. If ever Soveraignty ſuffer'd under ſuch <hi>Alchimy,</hi>
+            </p>
+            <p>I appeale to all grounds of humane pollicy.</p>
+            <p>But the report of a <hi>Forraine force</hi> is the only <hi>cement</hi> that Soulders up this difference of Opinions. The noiſe of our <hi>Bonny-Blew-Capps</hi> march<g ref="char:EOLhyphen"/>ing over <hi>Tweed,</hi> is of as conſiderable feare to our <hi>feveriſh Conſuls,</hi> as e<g ref="char:EOLhyphen"/>ver the report of <hi>Caeſars</hi> paſſing over <hi>Rubicon</hi> was to the <hi>Italians.</hi> No more <hi>branching.</hi>
+            </p>
+            <p>The <hi>Independent</hi> and <hi>Preſbyterian</hi> be all one. One Faith, one Forme of Diſcipline. Their <hi>Loyalty</hi> and <hi>honesty</hi> divided equally to an hair breadth leaſt one ſhould maligne the Other, for being either more <hi>honeſt</hi> or <hi>loyall</hi> then the other. And to knit the joynts of their fraternall League more ſtrongly, they have lately entertained a <hi>New Creed:</hi> and in ſuch a firme <hi>Iuncto:</hi> that neither of them henceforth is to queſtion what the other believes: becauſe the one knowes not well what the other holds.</p>
+            <p>But all this curiouſly woven artifice of State-policy will not doe the ſeat. Let them run on in their Maze of miſchiefe, canonizing their <hi>rebel<g ref="char:EOLhyphen"/>lious Saints:</hi> Ordering <hi>Publick Thanksgiving</hi> for ſhedding the blood of <hi>Honour:</hi> complying with <hi>City</hi> and <hi>County,</hi> and fooling them with trifling delayes, upon ſome <hi>hopefull deſigne:</hi> the ſucceſſe whereof
+<pb n="6" facs="tcp:116682:4"/>might make them more peremptory in ſleighting the inſtancy of a peace<g ref="char:EOLhyphen"/>full <hi>Treaty.</hi> But what is all this but to ſcatter duſt in the ayre? This will not ſerve their turue. Thoſe <hi>Adjacent Counties</hi> by which they were aſſi<g ref="char:EOLhyphen"/>ſted: That <hi>City</hi> by which they were recruited: that <hi>Navy</hi> by which they were ſecured, have now with <hi>clearer Eyes</hi> diſcovered their fearefull pro<g ref="char:EOLhyphen"/>jectments.</p>
+            <p>The horrour of their deſperate and unparalel'd practiſes has awak't them. One drop of blood t'ane from an <hi>innocent Prince</hi> is of that deep dye, ſuch holding tincture, as it imprints <hi>revenge</hi> in a Vermillion colour.</p>
+            <p>Heavens judgements may <hi>ſleep,</hi> they cannot <hi>ſlip:</hi> Nor need we doubt but that theſe hainouſe and hideous plotts have been treacherouſly con<g ref="char:EOLhyphen"/>trived ſeriouſly intended, eagerly purſued, and if they had not by Gods goodneſſe been ſtrangely diſcloſed, timely prevented, had been as tragi<g ref="char:EOLhyphen"/>cally acted. For elſe, how had <hi>Rolph</hi> been ſo juſtly accuſed: and in opi<g ref="char:EOLhyphen"/>nion ſo generally impeached?</p>
+            <p>Would not the diſplay of theſe inhumanities, quicken the Spirit of the re<g ref="char:EOLhyphen"/>miſſeſt <hi>Royaliſts.</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">Thoſe impious Speeches, (not to be repented with out horrour) late<g ref="char:EOLhyphen"/>ly and confident<g ref="char:EOLhyphen"/>ly utteredby that forlorne Miſcre<g ref="char:EOLhyphen"/>ant in Coven Garden, might be here inſerted; publiquely pro<g ref="char:EOLhyphen"/>teſting, <q rend="margQuotes">That he hoped ere long to waſh his hands in the Kings Blood.</q> Yet this impiety paſſeth with im<g ref="char:EOLhyphen"/>punity; being for ought we heare, as yet unqueſtio<g ref="char:EOLhyphen"/>ned at leaſt un<g ref="char:EOLhyphen"/>cenſured</note> Againe to obſerve how theſe Villains are ſhrowded and Palliated! How ſome labour to mince them; others to ſuppreſſe them: all malignantly affected, to excuſe them: nay, to aſperſe the <hi>Accuſer,</hi> and vilifie his teſtimony, whoſe loyalty induc'd him to diſcloſe it, and who with his blood will be ready to maintaine it.</p>
+            <p>
+               <hi>I</hi> could here take occaſion of taxing that triffling <hi>penny-ſheet man,</hi> for his egregious folly &amp; foppery (If the <hi>Creature</hi> were worthy my reproof) who being as it ſeems in fee with Col. <hi>Hammon,</hi> that rigid keeper of his Majeſty in the Iſle of <hi>Wight,</hi> has publiſhed a Tale, without head or taile, under the name of <hi>W. Riſhton</hi> intituled HIS MAIESTIES DECLARATION in the ISLE of WIGHT, concerning <hi>Col. Hammond</hi> and Mr. <hi>Osburne,</hi> and tou<g ref="char:EOLhyphen"/>ching the <hi>preſervation of his Royall Perſon from Poyſon</hi> &amp;c. Wherein no leſſe <hi>impudently</hi> then <hi>weakly,</hi> he takes upon him from the <hi>Kings mouth</hi> to vindicate the innocency of <hi>Hammond,</hi> a man of ſuch matchleſſe curteſy and affability as his <hi>Majeſty</hi> could not well Imagin his preſent reſtraint to be a place of captivity.</p>
+            <p>A man ſo conſcientious of his wayes: as for him to enter into any ſuch confederacy with <hi>Major Rolph</hi> or any other Aſſainate in ſuch a bloody and horrid deſigne, as was fuggeſted, was ſo farre eſtranged from his thoughts, as no mans honour could be more injuriouſly impeached. For the King himſelfe holds him for an honeſt morall man; a faithfull Gover<g ref="char:EOLhyphen"/>nour; one who would not betray his truſt for an Empire. Beſides all this; <q rend="margQuotes">Mr. <hi>Troughton</hi> the Governours Chaplaine, told his Majeſty, that he ho<g ref="char:EOLhyphen"/>ped
+<pb n="7" facs="tcp:116682:4"/>there was not any about him, who durſt entertaine a thought of doing hurt to his perſon (it being a thing ſo inhumane and barba<g ref="char:EOLhyphen"/>rous) the King anſwered, that he hoped there was not any that was ſo cruelly minded.</q>
+            </p>
+            <p>Grave Chaplaine, Gratious Governour! For this <hi>Chaplaine,</hi> hee's known to be a <hi>fugitive fellow,</hi> one, who while he Sojourned it'h <hi>North<g ref="char:EOLhyphen"/>parts;</hi> was commonly known by the name of the <hi>Conventuall-Belman,</hi> for his zealous care of aſſembling, furniſhing, and frequenting <hi>private couventicles.</hi> But afterward, being accuſed, impeached, and to be publiquely puniſhed for ſcattering <hi>Scandalous libells</hi> with other miſ<g ref="char:EOLhyphen"/>demeanours, he fled for refuge into theſe parts, where he has attain'd this unexpected Honour of being made <hi>Chaplaine</hi> in <hi>ordinary</hi> (as no <hi>Chaplain</hi> more <hi>ordinary</hi>) to this Governour: and where in the judgment of thoſe that know him, he can <hi>Preach</hi> to the full better then he can <hi>Read.</hi>
+            </p>
+            <p>Now for this <hi>Declaration</hi> of his <hi>Majeſties</hi> in vindication of Colonell <hi>Hammon,</hi> it is meerly <hi>hammar'd</hi> from the <hi>Forg</hi> of their accuſtomary lyes-<hi>Hammon</hi> labours to cleere himſelfe before his time. Theſe <hi>Paper pellets.</hi> muſt not doe it. His and <hi>Rolphs</hi> cleareneſſe will appeare very ſhortly; if <hi>Truth the Daughter of Time,</hi> may be admitted to come to a Diſcovery.</p>
+            <p>Now, What kind of men may theſe be, who are ſuch <hi>Vindicators,</hi> nay, prime <hi>Agitators</hi> in theſe acts of <hi>High Treaſon;</hi> but ſuch, whoſe private intereſts and treacherous ambition have brought a flouriſhing State to this forlorne condition?</p>
+            <p>Here you ſhall find one (to render every of them their diſtinguiſhing notion) a ſubtill winding Snake, who has got the Art how to inſinuate into the boſome of any active Member: and to oblige too by pretenſive, curtefies, which he never means to performe, an Inſtrument of acquiring his owne ends. This Anarchiall <hi>Achitophel,</hi> though his deſires cloſe with nothing leſſe then Monarchicall government, yet his proteſts imply a de<g ref="char:EOLhyphen"/>fire of Soveraignty. But his <hi>boſome freinds,</hi> whereof he hath but a very few, to whom he dare communicate his thoughts, know right well, that he hates nothing more then an abſolute Regall power. Thus cunningly he appears leaſt, what he is moſt: Seeming moſt what he leaſt is.</p>
+            <q>
+               <l>For ſuch <hi>State-politicians</hi> here grow rare,</l>
+               <l>Who be the ſame they ſeeme, ſeeme what they are.</l>
+            </q>
+            <p>It was ſaid of <hi>Catiliue,</hi> that he <hi>ſpake much and did little;</hi> but con<g ref="char:EOLhyphen"/>trarywiſe, <hi>Iugurth ſpake little</hi> and <hi>did much.</hi> A barking Dogge is leaſt to be feared.</p>
+            <p>Whereas the <hi>State-Artiſts,</hi> when they are ſtilleſt and calmeſt, are ever moſt to be ſuſpected.</p>
+            <pb n="8" facs="tcp:116682:5"/>
+            <p>There is an <hi>other</hi> too, who deſires much to <hi>ſecond</hi> him; but falls farre ſhort of him. One, who in his time has done <hi>Service</hi> for the <hi>State:</hi> yet found ſo <hi>remiſſe</hi> in his <hi>Com<g ref="char:EOLhyphen"/>mands,</hi> as he ſuffered in the opinion of the <hi>Houſes:</hi> and at laſt, with much a doe, after a long perplexive <hi>Anſwer</hi> to his <hi>Weighty Charge,</hi> he purehas'd his intempnity, but with as much difficulty as (dam him) <hi>Pembrooke</hi> got his delivery.</p>
+            <p>The <hi>Third</hi> you ſhall find a <hi>ſeveriſh runegade;</hi> One who knowes what <hi>Treaſon</hi> means; yet is more apt to <hi>conceale</hi> it, then to <hi>plot</hi> it; and leſſ apt to <hi>Act</hi> it, then either to <hi>con<g ref="char:EOLhyphen"/>ceale</hi> it, or <hi>Plot</hi> it.</p>
+            <p>But <hi>Proteſtations</hi> upon his <hi>Honour</hi> with other <hi>Subordinate Votes,</hi> have for the preſent by chance ſav'd him; till theſe neare-approaching <hi>evill dayes</hi> (to uſe the <hi>new phraſe</hi> of the time) otherwiſe <hi>ſecure</hi> him: Only know thus much, that he can <hi>pocket</hi> the <hi>injuries</hi> done to his owne <hi>Perſon,</hi> or <hi>Treaſon</hi> to his <hi>Prince,</hi> with as much <hi>patience,</hi> and diſloyall <hi>Silence,</hi> as any Flap-fly Lord of them all.</p>
+            <p>Shall we ſtept downe to the <hi>Lower Stege,</hi> though the <hi>Subtiler Sophiſters?</hi> wee ſhall find there too a <hi>Leaſh,</hi> amongſt other <hi>yelpers</hi> of the ſame <hi>Litter,</hi> of as active <hi>My medons,</hi> as thoſe cunning <hi>Terriers</hi> were, who gave the firſt ſent.</p>
+            <p>Firſt you ſhall meet with, is a Sneeking <hi>Sollicitous Rooke,</hi> who for Lucre has ſold his Honour.</p>
+            <p>One made to <hi>baite</hi> their pretended <hi>Delinquents</hi> when they come to the <hi>Stake.</hi> But had he ſayl'd away upon the <hi>Stating</hi> and <hi>cloſing</hi> of <hi>Hammonds</hi> caſe, it might have fared better with his <hi>fame,</hi> though worſe with his <hi>Fortune.</hi>
+            </p>
+            <p>For the <hi>Second,</hi> Hee's a <hi>prating pertifogger;</hi> Sometimes a gangling member of the <hi>Pa<g ref="char:EOLhyphen"/>chequer Chamber;</hi> but now his own fortunes, by the Parliaments pention, have raiſed this impertinent <hi>Speaker</hi> to the Seazure of a vaſt <hi>Exchequer.</hi> I referre you to Holland, where you may find it.</p>
+            <p>Meane time, his over-hacney'd Lungs gaſpe for reſpiration, he longs infinirely to have a progreſſe to the <hi>Bath;</hi> if his <hi>gains</hi> would give him leave. Or rather to the <hi>German-Spaw;</hi> if he might have <hi>Sea-rome;</hi> but he deſpayres of both.</p>
+            <p>For the <hi>Third</hi> and <hi>Laſt,</hi> though neither <hi>leaſt</hi> nor <hi>beſt</hi> of that <hi>laſte;</hi> is an <hi>uncleane Beaſt.</hi> One, who ruminates nothing but <hi>ſence</hi> who holds all Idols abhomination, but a wench. one who affects no <hi>Elocution</hi> ſo much as <hi>Treaſon.</hi> He loves <hi>ſtrong lines,</hi> but twiſted together with ſuch <hi>Snarles,</hi> as they will go very neare to hang him. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> The <hi>Martin</hi> is ever ſaid to build her neſt in cleane places: but this is no ſuch <hi>Cleane Bird;</hi> for his <hi>Mouth</hi> is the very <hi>Common Sewer of Treaſon,</hi> his <hi>breaſt</hi> the very <hi>Brothell</hi> of all <hi>pollution.</hi>
+            </p>
+            <p>Now, you have heard their diſcovery: and you bleſſe your ſelves from them, as from <hi>Thunder:</hi> yet moſt of theſe are <hi>meal-mouth'd,</hi> and will cry <hi>Peace, Peace,</hi> when their hands are <hi>preparing</hi> for <hi>Battell.</hi>
+            </p>
+            <p>Quicken then your hearts and hands, ſharpen your Swords: Cruſh the <hi>Serpent</hi> in the <hi>Egge;</hi> nay, theſe <hi>Scorpions</hi> in their <hi>full grouth;</hi> Leave neither <hi>toppe</hi> nor <hi>branch. Calidon Countrey, City,</hi> brave <hi>Cavalry,</hi> all ſtand for you.</p>
+            <closer>NOW THEN OR NEVER: FOR IF NOT NOW, INSLAVED EVER.</closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
